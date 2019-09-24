@@ -94,10 +94,9 @@ agent is a ghost. When crossing into enemy territory, the agent becomes a Pacman
 
 To enter into the nightly tournaments, your team must be defined in `myTeam.py`. Due to the way the tournaments are run, your code must not rely on any additional files that we have not provided (The submission system may allow you to submit additional files, but the contest framework will not include them when your code is run in the tournament). You may not modify the code we provide.
 
-You must also specify a unique team name in `name.txt`. This file should consist only of ASCII letters and digits (any other characters, including whitespace, will be ignored). Only your team name will be displayed to the rest of the class. Once you submit under a particular name, only you will be permitted to submit under that name, until you give up the name by either submitting under a different team name or
-submitting with a blank team name, which serves to remove you from the tournament. As usual, you should also include a `partners.txt` file.
+You must also specify a unique team name in the registration form (see instructions.pdf). The name should consist only of ASCII letters and digits (any other characters, including whitespace, will be ignored). Only your team name will be displayed to the rest of the class. Don't forget to include a `group.txt` file listing your group members’ student number, full name, and email, one per line.
 
-To actually submit, use the `submit` under the assignment name `contest`. The [contest submissions](http://inst.eecs.berkeley.edu/~cs188/fa10/contest-submissions.html) webpage shows the team names and most recent submission times of all teams, which you can use to verify that your submission has been received properly. This website should update within two minutes of your submission.
+To actually submit, the tag your commit with `submission-contest` (see instructions.pdf for more details). 
 
 ## Getting Started
 
