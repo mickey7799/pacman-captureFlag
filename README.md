@@ -30,7 +30,7 @@ We move to build minimax because we want to both consider our best move and the 
 
 Finally, we decided to combine both Mininmax and Heuristic agent to see whether two approaches can work perfectly together. we want to combine the advantage of both agents to have synergy effect. Minimax agent is mainly responsible for attacking while the Heuristic agent is the one to hunt the invaders. It can fulfil the general comments of 1-5 better.
 
-### Build
+## Build
 ```run python capture.py -r myTeam -b baselineTeam```
 
 This runs a game between two teams, each consisting of a baseline agent and Mixed agents with Minimax and Heuristic agent.
