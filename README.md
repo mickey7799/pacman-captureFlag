@@ -24,7 +24,7 @@ When we found out that we can only beat staff_medium team no matter how hard we'
 
 ### Minimax agents
 
-We move to build minimax because we want to both consider our best move and the move of our opponents and pick the comparatively better choice. It is good for attacking but it is relatively weak in defending. It can fulfil the general comments of 1-4.
+We move to build minimax agent because we want to both consider our best move and the move of our opponents. And then we can pick the comparatively better choice. It is good for attacking espaecially against strong opponents but it is relatively weak in defending. It can fulfil the general comments of 1-4.
 
 ### Mixed agents with Minimax and Heuristic
 
